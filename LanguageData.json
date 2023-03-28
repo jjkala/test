@@ -1,0 +1,186 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        14,
+        1
+    ],
+    "data": [
+        [
+            [
+                "English"
+            ],
+            [
+                "PRESS ENTER"
+            ],
+            [
+                "TAP TO SCREEN"
+            ],
+            [
+                "Language:"
+            ],
+            [
+                "Sound"
+            ],
+            [
+                "Music"
+            ],
+            [
+                "Alert"
+            ],
+            [
+                "This port is still under development. If you find any problems, you can write about them."
+            ],
+            [
+                "At the moment, this part of the game has not been recreated. Stay tuned for future updates."
+            ],
+            [
+                "The game is over"
+            ],
+            [
+                "But that doesn't mean this is the end..."
+            ],
+            [
+                "ReAdY fOr RoUnD 2, "
+            ],
+            [
+                "The author of this port does not take his right to the game, and does not pass it off as his game."
+            ],
+            [
+                "If something the creator of the original does not like, you can try to contact me"
+            ]
+        ],
+        [
+            [
+                "Portugeuese"
+            ],
+            [
+                "PRESSIONE ENTER"
+            ],
+            [
+                "TOQUE NA TELA"
+            ],
+            [
+                "Linguagem:"
+            ],
+            [
+                "Som"
+            ],
+            [
+                "Música"
+            ],
+            [
+                "Alerta"
+            ],
+            [
+                "Esta porta ainda está em desenvolvimento. Se você encontrar algum problema, pode escrever sobre eles."
+            ],
+            [
+                "No momento, esta parte do jogo não foi recriada. Fique atento para futuras atualizações."
+            ],
+            [
+                "O jogo acabou"
+            ],
+            [
+                "Mas isso não significa que é o fim..."
+            ],
+            [
+                "PRONTO PARA A RODADA 2,"
+            ],
+            [
+                "O autor desta porta não assume o direito ao jogo e não o passa como seu jogo."
+            ],
+            [
+                "Se algo que o criador do original não gosta, você pode tentar entrar em contato comigo"
+            ]
+        ],
+        [
+            [
+                "Russian"
+            ],
+            [
+                "НАЖМИТЕ ВВОД"
+            ],
+            [
+                "НАЖМИТЕ НА ЭКРАН"
+            ],
+            [
+                "Язык:"
+            ],
+            [
+                "Звук"
+            ],
+            [
+                "Музыка"
+            ],
+            [
+                "Тревога"
+            ],
+            [
+                "Этот порт все еще находится в стадии разработки. Если вы обнаружите какие-либо проблемы, вы можете написать о них."
+            ],
+            [
+                "На данный момент эта часть игры не воссоздана. Следите за будущими обновлениями."
+            ],
+            [
+                "Игра окончена"
+            ],
+            [
+                "Но это не значит, что это конец..."
+            ],
+            [
+                "ГОТОВ К РАУНДУ 2,"
+            ],
+            [
+                "Автор этого порта не забирает свои права на игру, и не выдает ее за свою игру."
+            ],
+            [
+                "Если что-то не понравится создателю оригинала, вы можете попробовать связаться со мной"
+            ]
+        ],
+        [
+            [
+                "Spanish"
+            ],
+            [
+                "PULSA ENTRAR"
+            ],
+            [
+                "TOQUE PARA PANTALLA"
+            ],
+            [
+                "Idioma:"
+            ],
+            [
+                "Sonido"
+            ],
+            [
+                "Música"
+            ],
+            [
+                "Alerta"
+            ],
+            [
+                "Este puerto aún está en desarrollo. Si encuentra algún problema, puede escribir sobre él."
+            ],
+            [
+                "Por el momento, esta parte del juego no ha sido recreada. Manténgase atento a las actualizaciones futuras."
+            ],
+            [
+                "El juego ha terminado"
+            ],
+            [
+                "Pero eso no significa que este sea el final..."
+            ],
+            [
+                "LISTO PARA LA RONDA 2,"
+            ],
+            [
+                "El autor de este puerto no toma su derecho al juego y no lo hace pasar por su juego."
+            ],
+            [
+                "Si algo no le gusta al creador del original, puedes intentar contactarme"
+            ]
+        ]
+    ]
+}
